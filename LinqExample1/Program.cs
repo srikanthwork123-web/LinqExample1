@@ -8,6 +8,7 @@ namespace LinqExample1
 {
     internal class Program
     {
+        //LinQ  FullForm is  Language Integrated Query.By using queries we can get the required data from datasources.
         static void Main(string[] args)
         {
             List<int> list = new List<int> { 1, 2, 3, 4, 5, 6 };//Here assign the data to list.
